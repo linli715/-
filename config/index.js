@@ -10,7 +10,7 @@ export const config = {
     APP_SECRET: "75f87fd0b3f38a4eeb9aaa7f0fef6c0a",
 
     // 模板消息id
-    TEMPLATE_ID: "	5j_LIwqlB-C-EFUg6VJcg0xvWWPLiSGr8kFcDQfC0gM",
+    TEMPLATE_ID: "5j_LIwqlB-C-EFUg6VJcg0xvWWPLiSGr8kFcDQfC0gM",
 
     // 回调消息模板id, 用来看自己有没有发送成功的那个模板
     CALLBACK_TEMPLATE_ID: "oeM8E50ZN3Vre_bOeoeS35FMlmeY",
@@ -24,14 +24,14 @@ export const config = {
      * ]
      */
     USERS: [
-      {name: '老婆0', id: "1hxOO6VskYv0Kuf-y你懂的,填错狗头打烂VRMpuXhk"}, 
+      {name: '宝贝', id: "gegaen"}, 
       {name: '老婆1', id: "2hxOO6VskYv0Kuf-y你懂的,填错狗头打烂RMpuXhk"}, 
       {name: '老婆2', id: "3hxOO6VskYv0Kuf-yw你懂的,填错狗头打烂2RMpuXhk"}, 
       {name: '老婆3', id: "4hxOO6VskYv0Kuf-ywI你懂的,填错狗头打烂MpuXhk"}, 
     ],
     // 接收成功回调消息的微信号，（一般来说只填自己的微信号, name填不填无所谓）
     CALLBACK_USERS: [
-      {name: '自己',id: "5hxOO6VskYv你懂的,填错狗头打烂-ywIZVRMpuXhk"}, 
+      {name: '自己',id: "YOUtheer"}, 
     ],
      
     /**
