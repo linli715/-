@@ -4,16 +4,16 @@ export const config = {
      */
 
     // 公众号APP_ID
-    APP_ID: "",
+    APP_ID: "wx7ea92535737788ff",
 
     // 公众号APP_SECRET
-    APP_SECRET: "",
+    APP_SECRET: "75f87fd0b3f38a4eeb9aaa7f0fef6c0a",
 
     // 模板消息id
-    TEMPLATE_ID: "",
+    TEMPLATE_ID: "	5j_LIwqlB-C-EFUg6VJcg0xvWWPLiSGr8kFcDQfC0gM",
 
     // 回调消息模板id, 用来看自己有没有发送成功的那个模板
-    CALLBACK_TEMPLATE_ID: "",
+    CALLBACK_TEMPLATE_ID: "oeM8E50ZN3Vre_bOeoeS35FMlmeY",
 
 
     /**
@@ -54,10 +54,10 @@ export const config = {
      * 节日时，name填写相应展示的节日，你可以填“被搭讪纪念日”
      */
     FESTIVALS: [
-      {"type": "生日", "name": "老婆", "year": "1996", "date": "09-02"},
-      {"type": "节日", "name": "结婚纪念日", "year": "2020", "date": "09-03"},
-      {"type": "生日", "name": "李四", "year": "1996", "date": "09-31"},
-      {"type": "节日", "name": "被搭讪纪念日", "year": "2021", "date": "09-01"},
+      {"type": "生日", "name": "高个", "year": "1996", "date": "10-17"},
+      {"type": "节日", "name": "新年", "year": "2020", "date": "01-01"},
+      {"type": "生日", "name": "小林", "year": "1996", "date": "07-15"},
+      {"type": "节日", "name": "国庆", "year": "2021", "date": "10-01"},
     ],
 
     /**
